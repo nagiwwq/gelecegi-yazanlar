@@ -1,0 +1,10 @@
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Loginislemleri\bin\Debug\Loginislemleri.exe.config
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Loginislemleri\bin\Debug\Loginislemleri.exe
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Loginislemleri\bin\Debug\Loginislemleri.pdb
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Loginislemleri\obj\Debug\Loginislemleri.csproj.AssemblyReference.cache
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Loginislemleri\obj\Debug\Loginislemleri.Form1.resources
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Loginislemleri\obj\Debug\Loginislemleri.Properties.Resources.resources
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Loginislemleri\obj\Debug\Loginislemleri.csproj.GenerateResource.cache
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Loginislemleri\obj\Debug\Loginislemleri.csproj.CoreCompileInputs.cache
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Loginislemleri\obj\Debug\Loginislemleri.exe
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Loginislemleri\obj\Debug\Loginislemleri.pdb
