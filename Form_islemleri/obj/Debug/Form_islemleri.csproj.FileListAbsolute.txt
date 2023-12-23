@@ -1,0 +1,11 @@
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Form_islemleri\bin\Debug\Form_islemleri.exe.config
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Form_islemleri\bin\Debug\Form_islemleri.exe
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Form_islemleri\bin\Debug\Form_islemleri.pdb
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Form_islemleri\obj\Debug\Form_islemleri.csproj.AssemblyReference.cache
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Form_islemleri\obj\Debug\Form_islemleri.Form1.resources
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Form_islemleri\obj\Debug\Form_islemleri.Form2.resources
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Form_islemleri\obj\Debug\Form_islemleri.Properties.Resources.resources
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Form_islemleri\obj\Debug\Form_islemleri.csproj.GenerateResource.cache
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Form_islemleri\obj\Debug\Form_islemleri.csproj.CoreCompileInputs.cache
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Form_islemleri\obj\Debug\Form_islemleri.exe
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Form_islemleri\obj\Debug\Form_islemleri.pdb
