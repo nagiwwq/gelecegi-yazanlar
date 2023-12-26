@@ -1,0 +1,10 @@
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Temel_amac_kullanimlari\bin\Debug\Temel_amac_kullanimlari.exe.config
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Temel_amac_kullanimlari\bin\Debug\Temel_amac_kullanimlari.exe
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Temel_amac_kullanimlari\bin\Debug\Temel_amac_kullanimlari.pdb
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Temel_amac_kullanimlari\obj\Debug\Temel_amac_kullanimlari.csproj.AssemblyReference.cache
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Temel_amac_kullanimlari\obj\Debug\Temel_amac_kullanimlari.Form1.resources
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Temel_amac_kullanimlari\obj\Debug\Temel_amac_kullanimlari.Properties.Resources.resources
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Temel_amac_kullanimlari\obj\Debug\Temel_amac_kullanimlari.csproj.GenerateResource.cache
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Temel_amac_kullanimlari\obj\Debug\Temel_amac_kullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Temel_amac_kullanimlari\obj\Debug\Temel_amac_kullanimlari.exe
+C:\Users\nagir\OneDrive\Рабочий стол\Geleceği yazanlar\Temel_amac_kullanimlari\obj\Debug\Temel_amac_kullanimlari.pdb
